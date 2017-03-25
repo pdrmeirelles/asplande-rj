@@ -5,7 +5,7 @@ Guia para alteração/exclusão/inclusão dos banners de entrada do site via có
 
 Acessar a Central do Cliente em https://www.locaweb.com.br/default.html
 
-Acessar Produtos >> Hospedagem de Sites
+Acessar "Produtos >> Hospedagem de Sites"
 
 Clicar em mulheresnarede.org.br
 
@@ -13,10 +13,7 @@ Clicar em PUBLIQUE SEUS ARQUIVOS
 
 Em "Gerenciador de arquivos web", clicar em "Acessar o gerenciador"
 
-Preencher os campos:
-	Host
-	Usuário
-	Senha
+Preencher os campos: Host, Usuário e Senha
 
 Clicar no botão do "Check" verde
 
