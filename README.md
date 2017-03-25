@@ -86,4 +86,4 @@ Verifique se as alterações foram feitas em http://mulheresnarede.org.br/
 
 Obs.: a dimensão atual das imagens é 1440px x 864px, mas pode ser maior desde que todas tenham exatamente as mesmas dimensões.
 
-Caso prefira, pode baixar o arquivo index.php para o seu computador, alterá-lo nesta IDE (https://code.visualstudio.com/Download) e enviar o arquivo atualizado via "Gerenciador de arquivos web". Desta forma, não estaremos mexendo direto na Produção, ou seja, as mudanças só se tornarão públicas após o envio do arquivo atualizado.
+Caso prefira, pode baixar o arquivo index.php para o seu computador, alterá-lo nesta IDE: (https://code.visualstudio.com/Download) e enviar o arquivo atualizado via "Gerenciador de arquivos web". Desta forma, não estaremos mexendo direto na Produção, ou seja, as mudanças só se tornarão públicas após o envio do arquivo atualizado.
