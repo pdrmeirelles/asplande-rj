@@ -7,7 +7,7 @@ Acessar a Central do Cliente em https://www.locaweb.com.br/default.html
 
 Acessar "Produtos >> Hospedagem de Sites"
 
-Clicar em mulheresnarede.org.br
+Clicar em http://mulheresnarede.org.br/
 
 Clicar em PUBLIQUE SEUS ARQUIVOS
 
